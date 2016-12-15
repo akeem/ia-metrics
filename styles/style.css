@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.section {
+  padding: 20px 15px;
+}
+
+table * {
+  border: 1px solid #ccc;
+}
+
+input[type=text] {
+  line-height: 34px;
+}
